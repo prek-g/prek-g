@@ -14,6 +14,18 @@ I use GitHub to share my learning progress, personal projects, and SQL case stud
 ---
 
 ##  Featured Projects
+
+### E-commerce Retail Sales Analysis Project
+A full SQL analytics project involving:
+- 9 relational tables covering customers, orders, order items, products, sellers, payments, inventory, shipping, and categories.
+- Complex SQL queries using window functions, subqueries, CTEs, aggregations, GROUP BY, HAVING, and advanced JOIN logic.
+- 20 real-world business tasks, including sales analysis, customer behavior, inventory monitoring, shipping performance, and profitability.
+- Data cleaning & validation (handling NULLs, fixing foreign key issues, enforcing constraints).
+- Stored procedures for automating operations such as recording sales and updating inventory.
+- Monthly trends, rankings, revenue metrics, and state-level business insights.
+- Performance-oriented SQL using analytical functions (ROW_NUMBER, RANK, LAG, SUM OVER PARTITION).
+- End-to-end project structure, from raw CSVs to a clean database → analytics → insights.
+
 ###  Library Management SQL Analysis  
 A full SQL analytics project involving:
 - Complex CTEs  
@@ -23,4 +35,3 @@ A full SQL analytics project involving:
 - Business insights from a 6-table dataset  
 
 More projects coming soon as I continue building my portfolio and progressing toward a Data Scientist role.
-
