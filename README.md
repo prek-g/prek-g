@@ -1,4 +1,4 @@
-# Hi, I'm Prek 👋
+# Hi, I'm Prek 
 
 I'm an aspiring **Data Analyst** working toward my goal of becoming a **Data Scientist**.  
 I have experience in SQL, PostgreSQL, Python, and academic teaching.  
@@ -35,3 +35,4 @@ A full SQL analytics project involving:
 - Business insights from a 6-table dataset  
 
 More projects coming soon as I continue building my portfolio and progressing toward a Data Scientist role.
+
