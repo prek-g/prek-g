@@ -33,6 +33,6 @@ A full SQL analytics project involving:
 - Fine-calculation logic  
 - Business insights from a 6-table dataset  
 
-More projects coming soon as I continue building my portfolio and progressing toward a Data Scientist role.
+
 
 
