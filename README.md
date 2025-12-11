@@ -1,7 +1,6 @@
 # Hi, I'm Prek 
 
-I'm an aspiring **Data Analyst** working toward my goal of becoming a **Data Scientist**.  
-I have experience in SQL, PostgreSQL, Python, and academic teaching.  
+I have experience in PostgreSQL, Python, PowerBI, Excel and academic teaching.  
 I use GitHub to share my learning progress, personal projects, and SQL case studies.
 
 ---
@@ -35,4 +34,5 @@ A full SQL analytics project involving:
 - Business insights from a 6-table dataset  
 
 More projects coming soon as I continue building my portfolio and progressing toward a Data Scientist role.
+
 
