@@ -1,37 +1,50 @@
 # Hi, I'm Prek 
 
 I have experience in PostgreSQL, Python, PowerBI, Excel and academic teaching.  
-I use GitHub to share my learning progress, personal projects, and SQL case studies.
 
 ---
 
 ##  Tech Stack
 - **Languages:** SQL, Python  
 - **Databases:** PostgreSQL 
-- **Tools:** PyCharm, pgAdmin, Excel  
+- **Tools:** PyCharm, pgAdmin, Excel, Power BI
 
 ---
 
 ##  Featured Projects
 
-### E-commerce Retail Sales Analysis Project
-A full SQL analytics project involving:
-- 9 relational tables covering customers, orders, order items, products, sellers, payments, inventory, shipping, and categories.
-- Complex SQL queries using window functions, subqueries, CTEs, aggregations, GROUP BY, HAVING, and advanced JOIN logic.
-- 20 real-world business tasks, including sales analysis, customer behavior, inventory monitoring, shipping performance, and profitability.
-- Data cleaning & validation (handling NULLs, fixing foreign key issues, enforcing constraints).
-- Stored procedures for automating operations such as recording sales and updating inventory.
-- Monthly trends, rankings, revenue metrics, and state-level business insights.
-- Performance-oriented SQL using analytical functions (ROW_NUMBER, RANK, LAG, SUM OVER PARTITION).
-- End-to-end project structure, from raw CSVs to a clean database → analytics → insights.
+### **1. Daily Crypto Market ETL & Email Automation (Python)**
+A fully automated Python ETL pipeline that fetches cryptocurrency market data from the CoinGecko API, cleans it, generates daily highlights (top gainer, top loser, trend direction), and sends the dataset via email every morning at 08:00 AM.
 
-###  Library Management SQL Analysis  
-A full SQL analytics project involving:
-- Complex CTEs  
-- Multi-table joins  
-- Triggers  
-- Fine-calculation logic  
-- Business insights from a 6-table dataset  
+**Key Features:**
+- API data extraction from CoinGecko  
+- Data cleaning and transformation  
+- Automated email reporting  
+- Scheduled daily execution at 08:00 AM  
+- Secure credential handling with `.env` files  
+
+---
+
+### **2. E-commerce Retail Sales Analysis (SQL)**
+A SQL analytics project analyzing e-commerce sales data with 9 relational tables.  
+
+**Highlights:**
+- Advanced SQL queries with **CTEs, window functions, subqueries, and complex joins**  
+- 20 real-world business tasks: sales analysis, customer behavior, inventory, shipping, and revenue insights  
+- Automated operations with **stored procedures**  
+- Performance-oriented SQL: `ROW_NUMBER()`, `RANK()`, `LAG()`, `SUM() OVER PARTITION`  
+
+---
+
+### **3. Library Management SQL Analysis**
+A project analyzing library operations using SQL.  
+
+**Highlights:**
+- Multi-table joins and complex **CTEs**  
+- **Triggers** for automated fine calculations  
+- Actionable business insights from a 6-table dataset  
+
+---
 
 
 
