@@ -7,7 +7,7 @@ I have experience in PostgreSQL, Python, PowerBI, Excel and academic teaching.
 ##  Tech Stack
 - **Languages:** SQL, Python  
 - **Databases:** PostgreSQL 
-- **Tools:** WSL2, Ubuntu 22.04.5 LTS distro, VS Code, PyCharm, pgAdmin, Excel, Power BI
+- **Tools:** WSL2, Ubuntu 22.04.5 LTS distro, VS Code, PyCharm, Excel, Power BI
 
 ---
 
@@ -45,6 +45,7 @@ A project analyzing library operations using SQL.
 - Actionable business insights from a 6-table dataset  
 
 ---
+
 
 
 
